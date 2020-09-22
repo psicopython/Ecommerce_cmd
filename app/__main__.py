@@ -80,7 +80,7 @@ while True:
 	[ 5 ] Perfil
 	[ X ] SAIR
 	""")
-
+	print("nao entendi muito bem pq das 3 aspas")
 
 	optM = input("\t\tOq deseja Fazer: ")
 	try:
